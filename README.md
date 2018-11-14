@@ -1,3 +1,4 @@
 #SampleApp
+Sample App
 
-This a sample app to work on the git commands
+This a sample app to work on the git commands!!
